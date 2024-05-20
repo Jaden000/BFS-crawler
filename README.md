@@ -14,7 +14,7 @@
 ### Project Design
 - BFS 탐색 대상: url <br>
 - Seed url: https://news.naver.com 또는 argv[1] <br>
-- 차별점: url 필터링, depth 기록
+- 차별점: url 필터링, depth(level) 기록
 
 <br>
 
